@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">余额面板</string>
+    <string name="widget_single_label">单账号余额</string>
+    <string name="widget_single_desc">固定 2×1，显示单个平台余额</string>
+    <string name="widget_single_config_title">选择账号</string>
+    <string name="widget_loading">加载中…</string>
+</resources>

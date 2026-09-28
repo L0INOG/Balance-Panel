@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#101014</color>
+    <color name="widget_bg">#111111</color>
+    <color name="widget_border">#2A2A2A</color>
+</resources>
